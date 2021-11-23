@@ -1,0 +1,13 @@
+dist/
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.pdf
+*.out
+*.bcf
+*-blx.bib
+*.run.xml
+*.fdb_latexmk
+*.fls

@@ -1,0 +1,1 @@
+To build run `latexmk simple.tex --outdir=dist`
